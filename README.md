@@ -9,10 +9,10 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m currently learning **Microservices and REST API development**
-- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**
-- 📫 Reach me at **damodharg637@gmail.com**
+- 🔭 I’m currently working on **Spring Boot Projects**  
+- 🌱 I’m currently learning **Microservices and REST API development**  
+- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**  
+- 📫 Reach me at **damodharg637@gmail.com**  
 - ⚡ Fun fact: *I love solving coding challenges and building backend logic.*
 
 ---
@@ -57,23 +57,13 @@
 ---
 
 ### 🔥 GitHub Streak Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=damodharg6&theme=tokyonight&hide_border=false" alt="streak stats" />
 </p>
 
 ---
 
-### 📈 Activity Graph (Alternative to Snake 🧩)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damodharg6&theme=tokyo-night&hide_border=false" alt="Damodhar's GitHub Activity Graph" />
-</p>
-
----
-
 ### ✨ Fun Badges
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java%20Developer-%23FF6F00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
