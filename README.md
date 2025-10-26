@@ -11,10 +11,10 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning **Spring Boot, REST APIs, and Database Management**
-- 💻 I solve problems on **LeetCode** and **HackerEarth**
-- 📫 How to reach me: **damodharg637@gmail.com**
-- ⚡ Fun fact: *I love solving DSA problems in Java!*
+- 🌱 I’m currently learning **Spring Boot**, **REST APIs**, and **Database Management**
+- 💻 I practice DSA regularly on **LeetCode** and **HackerEarth**
+- 📫 Reach me at: **damodharg637@gmail.com**
+- ⚡ Fun fact: *I enjoy solving backend challenges and optimizing logic in Java!*
 
 ---
 
@@ -82,19 +82,18 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/damodharg6/damodharg6/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/damodharg6/damodharg6/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### 💬 Quote of the Day
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
 ---
 
 ⭐ **Check out my repositories → [damodharg6](https://github.com/damodharg6)**
-
