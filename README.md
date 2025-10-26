@@ -1,86 +1,80 @@
-<h1 align="center">Hi 👋, I'm Giddaluru Damodhar</h1>
-<h3 align="center">A passionate Java Backend Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm <b>Giddaluru Damodhar</b></h1>
+<h3 align="center">Java Backend Developer • Spring Boot • DSA • Open to internships & collaborations 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damodharg6&label=Profile%20views&color=0e75b6&style=flat" alt="damodharg6" />
+  <a href="https://github.com/damodharg6"><img src="https://komarev.com/ghpvc/?username=damodharg6&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/damodharg6"><img alt="Followers" src="https://img.shields.io/github/followers/damodharg6?label=Follow&style=social"></a>
+  <a href="https://github.com/damodharg6"><img alt="Repos" src="https://img.shields.io/github/repo-size/damodharg6/damodharg6?style=flat-square"></a>
 </p>
 
 ---
 
-### 💫 About Me
-
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m currently learning **Microservices and REST API development**
-- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**
-- 📫 Reach me at **damodharg637@gmail.com**
-- ⚡ Fun fact: *I love solving coding challenges and building backend logic.*
+## 💫 About Me
+- 🔭 Building backend systems with **Java + Spring Boot**  
+- 🌱 Learning **Microservices, Docker & AWS**  
+- 🧠 Strong interest in **DSA** and algorithmic problem solving  
+- 📫 Reach me: **damodharg637@gmail.com** — open to internships & collaborations
 
 ---
 
-### 🌐 Connect with Me
+## 🔗 Quick Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giddaluru-damodhar-74816b343/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/damodar_7/)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Practice-green?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@damodharg637/)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=google-drive)](https://github.com/damodharg6) <!-- replace with resume link -->
+
+---
+
+## ⭐ Featured Projects
+- **Project A** — Short one-line description. [Repo →](https://github.com/damodharg6/PROJECT-A)  
+- **Project B** — Short one-line description. [Repo →](https://github.com/damodharg6/PROJECT-B)  
+*(Replace with your real project names + links)*
+
+---
+
+## 🛠️ Tech Stack
 <p align="left">
-  <a href="https://www.linkedin.com/in/giddaluru-damodhar-74816b343/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/damodar_7/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@damodharg637/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-  <a href="https://github.com/damodharg6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="36" height="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damodharg6&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodharg6&layout=compact&theme=tokyonight" height="150" alt="top languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 Activity & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damodharg6&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (animated)
+<p align="center">
+  <!-- RAW URL must point to the committed SVG in your repo's default branch -->
+  <img src="https://raw.githubusercontent.com/damodharg6/damodharg6/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+> **If the image above is broken:** open  
+> `https://raw.githubusercontent.com/damodharg6/damodharg6/main/output/github-contribution-grid-snake.svg`  
+> in your browser — if it 404s, the file is missing or in a different branch/path.
+
+---
+
+## 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damodharg6&show_icons=true&theme=tokyonight&hide_border=false" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodharg6&layout=compact&theme=tokyonight&hide_border=false" height="160px" />
+  ⭐️ — Visit my GitHub: <a href="https://github.com/damodharg6">github.com/damodharg6</a> — ⭐️
 </div>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/damodharg6/damodharg6/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damodharg6&theme=tokyonight&hide_border=false" alt="streak stats" />
-</p>
-
----
-
-### ✨ Fun Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20Developer-%23FF6F00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-%2300C853.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
-
----
-
-⭐ **From [damodharg6](https://github.com/damodharg6)**
