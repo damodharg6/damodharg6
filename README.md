@@ -10,8 +10,7 @@
 ### 💫 About Me
 
 - 🔭 I’m currently working on **Spring Boot Projects**  
-- 🌱 I’m currently learning **Microservices and REST API development**  
-- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**  
+- 🌱 I’m currently learning **Microservices and REST API development**    
 - 📫 Reach me at **damodharg637@gmail.com**  
 - ⚡ Fun fact: *I love solving coding challenges and building backend logic.*
 
