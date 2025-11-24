@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Spring Boot Projects**  
 - 🌱 I’m currently learning **Microservices and REST API development**
--    I'm currently working on **Machine Learning and Deep Learning Projects**    
+- 🔭 I'm currently working on **Machine Learning and Deep Learning Projects**    
 - 📫 Reach me at **damodharg637@gmail.com**  
 - ⚡ Fun fact: *I love solving coding challenges and building backend logic.*
 
