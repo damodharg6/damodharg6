@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently learning **Java Full Stack Develop**
 - 🌱 I’m also learning **Machine Learning and Deep Learning**
 - 🚀 Interested in **Backend Development, APIs, and Scalable Systems**
 - ⚡ Fun fact: *I love solving coding challenges and building backend logic.*
