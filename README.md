@@ -1,5 +1,5 @@
 <h1 align="center">Giddaluru Damodhar</h1>
-<h3 align="center">AI + Backend Develope</h3>
+<h3 align="center">AI + Backend Developer</h3>
 
 <p align="center">
   Building scalable systems and intelligent applications
