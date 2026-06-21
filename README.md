@@ -20,7 +20,7 @@
 **AI:** Python, LLM APIs, RAG, Vector Databases  
 **Systems:** Microservices, Distributed Systems  
 **Infra:** AWS, Docker, Kubernetes  
-**Data:** MySQL, Redis, Kafka  
+**Data:** MySQL, Redis, Kafka, PostgreSQL
 
 ---
 
