@@ -2,7 +2,7 @@
 <h3 align="center">AI + Backend Developer</h3>
 
 <p align="center">
-  Building scalable systems and intelligent applications
+  Building scalable systems and intelligent
 </p>
 
 ---
