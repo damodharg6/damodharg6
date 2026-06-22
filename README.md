@@ -7,7 +7,7 @@
 
 ---
 
-### About
+## About
 - Focused on AI Engineering + Backend Systems 
 - Building **scalable APIs, distributed systems, real-world projects**
 - Exploring **LLMs, RAG, AI agents, and system design**
