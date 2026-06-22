@@ -15,7 +15,7 @@
 
 ---
 
-##Tech
+### Tech
 **Backend:** Java, Spring Boot, REST APIs  
 **AI:** Python, LLM APIs, RAG, Vector Databases  
 **Systems:** Microservices, Distributed Systems  
