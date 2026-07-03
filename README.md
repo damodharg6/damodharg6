@@ -1,33 +1,45 @@
-<h1 align="center">Giddaluru Damodhar</h1>
-<h3 align="center">AI + Backend Developer</h3>
-
+<h1 align="center">Hi, I'm Damodhar 👋</h1>
+<h3 align="center">AI/ML Engineer & Backend Developer</h3>
 <p align="center">
-  Building scalable systems and intelligent applications
+  Building intelligent, production-ready applications with Python, GenAI & scalable APIs
 </p>
 
 ---
 
- ### About
-- Focused on AI Engineering + Backend Systems 
-- Building **scalable APIs, distributed systems, real-world projects**
-- Exploring **LLMs, RAG, AI agents, and system design**
-- Learning to ship **production-ready Systems**
+### 🚀 About Me
+- 🎓 Final-year CSE student @ LPU, AWS Certified Cloud Practitioner
+- 🤖 Building AI-powered applications: NLP, Computer Vision, Generative AI (LLMs, RAG)
+- ⚙️ Shipping full-stack apps with FastAPI, Flask & Streamlit
+- 📚 200+ DSA problems solved on LeetCode & GeeksforGeeks
+- 🌱 Currently exploring AI agents and Retrieval-Augmented Generation (RAG)
 
 ---
 
-### Tech
-**Backend:** Java, Spring Boot, REST APIs  
-**AI:** Python, LLM APIs, RAG, Vector Databases  
-**Systems:** Microservices, Distributed Systems  
-**Infra:** AWS, Docker, Kubernetes  
-**Data:** MySQL, Redis, Kafka, PostgreSQL
+### 🛠️ Tech Stack
+**Languages:** Python, Java, SQL  
+**AI/ML:** PyTorch, Scikit-learn, OpenCV, dlib, spaCy, Generative AI  
+**Backend & APIs:** FastAPI, Flask, Streamlit  
+**Cloud & Data:** AWS (EC2, S3), MySQL, Supabase (PostgreSQL)  
+**Tools:** Git, GitHub, NumPy, Pandas, Jupyter Notebook
 
 ---
 
-### Links
-[LinkedIn](https://www.linkedin.com/in/giddaluru-damodhar-74816b343/) •
-[GitHub](https://github.com/damodharg6)
+### 🔥 Featured Projects
+
+**[ATS Resume Scorer](https://github.com/damodharg6)** — AI resume analysis tool using spaCy + Sentence Transformers for semantic job-matching, Groq (Llama 3) for improvement tips, and automated PDF reports.
+
+**[AI Neural Style Transfer](https://github.com/damodharg6)** — PyTorch web app using VGG19 + AdaIN for real-time artistic style transfer, with GPU/CPU auto-detection.
+
+**[SnapClass](https://github.com/damodharg6)** — AI attendance system with dlib facial landmarks + SVM classification, supporting multi-face group-photo recognition and role-based access.
 
 ---
+
+### 📜 Certifications
+AWS Certified Cloud Practitioner · Deep Learning Specialization (Coursera) · OCI Certified AI Foundations Associate · Kaggle Feature Engineering
+
+---
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/giddaluru-damodhar-74816b343/) · [Email](mailto:giddalurudamodhar6@gmail.com)
 
 > Build. Break. Scale. Repeat.
