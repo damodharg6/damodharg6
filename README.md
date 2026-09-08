@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  👋</h1>
+<h1 align="center">Hi, I'm Damodhar 👋</h1>
 <h3 align="center">AI/ML Engineer & Backend Developer</h3>
 <p align="center">
   Building intelligent, production-ready applications with Python, GenAI & scalable APIs
