@@ -1,45 +1,38 @@
-<h1 align="center">Hi, I'm Damodhar 👋</h1>
-<h3 align="center">AI Engineer</h3>
-<p align="center">
-  Building intelligent, production-ready applications with Python, GenAI & scalable APIs
-</p>
+# Giddaluru Damodhar
+
+**Backend + AI Engineer** · B.Tech CSE (2027), Lovely Professional University · Hyderabad, India
+
+I build backend services and AI agents that are tested, measured and honest about their limits.
+
+[LinkedIn](https://www.linkedin.com/in/giddaluru-damodhar06/) · [Kaggle](https://www.kaggle.com/giddadamodar) · [Email](mailto:giddalurudamodhar6@gmail.com)
 
 ---
 
-### 🚀 About Me
-- 🎓 Final-year CSE student @ LPU, AWS Certified Cloud Practitioner
-- 🤖 Building AI-powered applications: NLP, Computer Vision, Generative AI (LLMs, RAG)
-- ⚙️ Shipping full-stack apps with FastAPI, Flask & Streamlit
-- 📚 200+ DSA problems solved on LeetCode & GeeksforGeeks
-- 🌱 Currently exploring AI agents and Retrieval-Augmented Generation (RAG)
+## Featured projects
+
+### [OpsPilot](https://github.com/damodharg6/opspilot) — AI on-call agent for production incidents
+Investigates an alarm by reading logs, metrics and recent deploys through **read-only MCP tools**, then returns a root-cause report without changing anything.
+- **Stack:** Python 3.12, FastAPI, SQLAlchemy, PostgreSQL 16 (as a job queue), MCP Python SDK, Docker Compose, Terraform + AWS, GitHub Actions
+- **Safety by design:** schema-validated reports, a grounding check that drops any evidence not found in tool output, and hard budgets on tool calls, tokens and time
+- **Results:** 4/4 correct root causes on a staged showcase set of incidents; the grounding check removed 3 unproven claims
+
+### [VisionPilot](https://github.com/damodharg6/VisionPilot-AI-Driver-Monitoring-Emergency-ADAS-System) — driver-fatigue monitoring with emergency takeover (simulation)
+Tracks the driver's eyes, blinks, yawns and head pose from a webcam and scores attention from 0–100. Alerts escalate from warnings to an automated takeover that slows the simulated car, changes lanes and stops on the shoulder.
+- **Stack:** Python, OpenCV, MediaPipe (468 facial landmarks), 3D highway simulator with traffic AI and vehicle physics (up to 45 vehicles)
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, Java, SQL  
-**AI/ML:** PyTorch, Scikit-learn, OpenCV, dlib, spaCy, Generative AI  
-**Backend & APIs:** FastAPI, Flask, Streamlit  
-**Cloud & Data:** AWS (EC2, S3), MySQL, Supabase (PostgreSQL)  
-**Tools:** Git, GitHub, NumPy, Pandas, Jupyter Notebook
+## Tech stack
 
----
+**Languages:** Python, Java, SQL
+**Backend:** FastAPI, Flask, REST APIs, SQLAlchemy
+**AI:** LLM agents, MCP, RAG, PyTorch, scikit-learn, OpenCV, MediaPipe, spaCy
+**Data & Cloud:** PostgreSQL, MySQL, AWS (EC2, S3), Docker, Terraform, GitHub Actions
 
-### 🔥 Featured Projects
+## Certifications
 
-**[ATS Resume Scorer](https://github.com/damodharg6)** — AI resume analysis tool using spaCy + Sentence Transformers for semantic job-matching, Groq (Llama 3) for improvement tips, and automated PDF reports.
+AWS Certified Cloud Practitioner · OCI AI Foundations Associate · Deep Learning Specialization (Coursera)
 
-**[AI Neural Style Transfer](https://github.com/damodharg6)** — PyTorch web app using VGG19 + AdaIN for real-time artistic style transfer, with GPU/CPU auto-detection.
+## Other projects
 
-**[SnapClass](https://github.com/damodharg6)** — AI attendance system with dlib facial landmarks + SVM classification, supporting multi-face group-photo recognition and role-based access.
-
----
-
-### 📜 Certifications
-AWS Certified Cloud Practitioner · Deep Learning Specialization (Coursera) · OCI Certified AI Foundations Associate · Kaggle Feature Engineering
-
----
-
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/giddaluru-damodhar-74816b343/) · [Email](mailto:giddalurudamodhar6@gmail.com)
-
-> Build. Break. Scale. Repeat.
+[ATS Resume Scorer](https://github.com/damodharg6/ATS-Resume-Scorer) · [SnapClass attendance system](https://github.com/damodharg6/SnapClass-AI-Powered-Attendance-System) · [Neural Style Transfer](https://github.com/damodharg6/AI-Neural-Style-Transfer)
