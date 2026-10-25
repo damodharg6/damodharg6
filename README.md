@@ -1,6 +1,6 @@
 # Giddaluru Damodhar
 
-**Backend + AI Engineer** · B.Tech CSE (2027), Lovely Professional University · Hyderabad, India
+**Backend + AI Engineer** · B.Tech CSE (2027), Lovely Professional University · Phagwara, Punjab, India
 
 I build backend services and AI agents that are tested, measured and honest about their limits.
 
